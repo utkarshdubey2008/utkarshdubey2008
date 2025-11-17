@@ -38,17 +38,26 @@ Built using **React + Tailwind + ShadCN + AI APIs**.
 ![Lucide](https://img.shields.io/badge/Lucide_Icons-000000?style=for-the-badge)
 
 
-## ⚙️ Backend (Automation & Systems)
+## ⚙️ Backend / Automation
 ![Pyrogram](https://img.shields.io/badge/Pyrogram-0F94FF?style=for-the-badge)
 ![Telebot](https://img.shields.io/badge/Telebot-229ED9?style=for-the-badge&logo=telegram&logoColor=white)
 ![Telethon](https://img.shields.io/badge/Telethon-0088CC?style=for-the-badge&logo=telegram&logoColor=white)
 
 
-## 🗄️ Database
+## 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![ElephantSQL](https://img.shields.io/badge/ElephantSQL-007DBA?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
-## 🛠️ DevOps & Tools
+## ☁️ Deployment & Hosting
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![Koyeb](https://img.shields.io/badge/Koyeb-121212?style=for-the-badge&logo=koyeb&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Okteto](https://img.shields.io/badge/Okteto-206CFF?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+
+## 🛠️ Other Tools
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
@@ -57,7 +66,6 @@ Built using **React + Tailwind + ShadCN + AI APIs**.
 
 
 # 📈 GitHub Stats
-
 <p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=utkarshdubey2008&show_icons=true&theme=tokyonight" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshdubey2008&layout=compact&theme=tokyonight" />
@@ -67,9 +75,9 @@ Built using **React + Tailwind + ShadCN + AI APIs**.
 # 🌱 Currently Learning
 - React + TypeScript  
 - Tailwind + ShadCN  
-- UI/UX component structuring  
-- Full-stack architecture  
-- AI tool development  
+- UI/Component architecture  
+- Full-stack systems  
+- Production deployments  
 
 
 # 📬 Contact
