@@ -1,126 +1,118 @@
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0A0A0A&height=220&section=header&text=Utkarsh&fontSize=90&fontColor=00FFEA&animation=fadeIn&customColorPattern=0A0A0A,6C63FF,00FFEA" width="100%"/>
-  
-  <h1>
-    <span style="background: linear-gradient(90deg, #00FFEA, #6C63FF, #FF00C8); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 3.2em;">
-      NEURAL ECHO: UTKARSH
-    </span>
-  </h1>
-  
-  <p>
-    <span style="font-size: 1.4em; color: #00FFEA; letter-spacing: 3px;">
-      ARCHITECT OF DIGITAL REALMS
-    </span>
-  </p>
+# 👋 **I AM** <span style="color:#00FFEA;">UTKARSH</span>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&pause=800&color=00FFEA&center=true&vCenter=true&width=680&lines=Neural+Systems+Engineer;Creator+of+LectAI.io+%26+Revi.js;Making+the+Invisible+Visible;Where+Code+Meets+Consciousness" />
+### **Architect of Tomorrow**
 
-  <br/><br/>
-  
-  <a href="https://lectai.io" target="_blank">
-    <img src="https://img.shields.io/badge/ENTER%20THE%20MATRIX-6C63FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0A0A0A" />
-  </a>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&pause=800&color=00FFEA&center=true&vCenter=true&width=620&lines=Neural+Systems+Engineer;Creator+of+Living+Digital+Realms;Making+the+Invisible+Visible;Shaping+Interfaces+of+the+Future" />
 
 </div>
 
----
 
 ## 🌌 **CORE CREATIONS**
 
-### **🌠 LECTAI.IO — CINEMATIC AI PRESENTATION ENGINE**
+### **🌠 LECTAI.IO — CINEMATIC INTELLIGENCE ENGINE**
 
-Next-generation intelligence that converts ideas into **stunning, structured, professional presentations** instantly.
+An AI-powered realm that instantly transforms ideas into **breathtaking, structured, and visually cinematic presentations**.
 
-Built with React, Tailwind, ShadCN, and advanced AI orchestration.
+Built as a living system with **React + Tailwind + ShadCN + Advanced AI Orchestration**.
 
-🔗 **LIVE:** [https://lectai.io](https://lectai.io)
+🔗 **Live Portal:** [https://lectai.io](https://lectai.io)  
+🎯 **Purpose:** Liberating human minds from repetitive creation cycles.
 
 ---
 
-### **⚡ REVI.JS — INVISIBILITY CLOAK FOR REACT APPS**
+### **⚡ REVI.JS — THE VISIBILITY MATRIX FOR REACT**
 
-**Revi.js** makes your React SPA **visible to the entire digital universe**.
+**Revi.js** makes your beautiful React SPA **seen by every crawler, AI bot, and social entity** in the digital universe.
 
-It intelligently renders perfect HTML for search engines, AI crawlers, and social bots — while keeping your app fully interactive for humans.
+It renders perfect, SEO-rich HTML for bots while keeping your app fully interactive for humans — all running locally.
 
-**The open-source Prerender.io killer.**
+**The free, open-source evolution beyond Prerender.io.**
 
-**Key Realms Conquered:**
+**Key Capabilities:**
 - Live Middleware Rendering
-- Smart Wait Strategy (`window.REVI_READY`)
-- Intelligent Cache Layer
-- Auto SEO Scoring (out of 100)
-- Meta Tag Auto-Injection
-- Sitemap Generation & Discovery
-- Auto Route Scanning
-- Vite Plugin, Watch Mode, Deploy CLI, Local Dashboard
+- Smart Wait Strategy + Auto Cache Layer
+- SEO Scoring (out of 100)
+- Auto Meta Tag Injection
+- Sitemap Generation & Route Discovery
+- Vite Plugin, Watch Mode, Local Dashboard, Deploy CLI
 
-**Supports 30+ entities:**
-Googlebot, Bingbot, GPTBot, Claude, Perplexity, X/Twitter, Discord, LinkedIn & more.
+Supports **30+ entities** — Googlebot, GPTBot, Claude, Perplexity, X, Discord, LinkedIn & more.
 
 🔗 **NPM:** [https://www.npmjs.com/package/@revijs/core](https://www.npmjs.com/package/@revijs/core)  
 🐙 **GitHub:** [https://github.com/TeamAlphabotz/Revijs](https://github.com/TeamAlphabotz/Revijs)  
-🚀 **Status:** v1.0.0 — Officially Launched
-
-> 100% local • Zero cloud • MIT License • Free forever
+> 100% Local • Zero Cloud • Free Forever • MIT License
 
 ---
 
-## ⚡ **NEURAL ARCHITECTURE**
+## 🚀 **NEURAL ARCHITECTURE**
 
-### **QUANTUM CORE**
+## 💻 **Core Realms**
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+
+## ⚙️ **Backend Systems**
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+![Async Orchestration](https://img.shields.io/badge/Async+Orchestration-00FFEA?style=for-the-badge)
+![Automation](https://img.shields.io/badge/Automation-6C63FF?style=for-the-badge)
 
-### **INTERFACE LAYER**
+
+## 🎨 **Interface Layer**
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![ShadCN](https://img.shields.io/badge/ShadCN-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![ShadCN](https://img.shields.io/badge/ShadCN-000000?style=for-the-badge)
+![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge)
 
-### **DIMENSIONAL TOOLS**
+
+## 🗄️ **Data Dimensions**
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### **DEPLOYMENT NEXUS**
+
+## ☁️ **Deployment Nexus**
 ![Vercel](https://img.shields.io/badge/Vercel-111111?style=for-the-badge&logo=vercel&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 
----
+
+## 🛠️ **Reality Tools**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
 
 ## 📡 **LIVE TRANSMISSION**
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=utkarshdubey2008&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A0A0A" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshdubey2008&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A0A0A" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=utkarshdubey2008&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A0A0A" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshdubey2008&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A0A0A" />
 </p>
 
----
+## 🌱 **HORIZON PROTOCOL**
 
-## 🌐 **HORIZON PROTOCOL** (Currently Exploring)
+- Immersive 3D & Real-time Systems  
+- Advanced Neural Interfaces  
+- Autonomous Agent Ecosystems  
+- Next-Gen Visibility & SEO Realms  
+- Full-Stack Digital Consciousness
 
-- Advanced Full-Stack Neural Systems
-- Real-time Collaborative Intelligence
-- 3D / Immersive Web Experiences
-- Autonomous Agent Frameworks
-- Next-Gen SEO & Visibility Systems
 
----
+## 📬 **CONNECT TO THE GRID**
 
-## **CONNECT TO THE GRID**
+**📨 Signal:** `admin@lectai.io`
 
-**📍 SIGNAL:** `admin@lectai.io`
-
-**🌌 Explore the Creations:**
+**🌌 Explore Creations:**
 - [LectAI.io](https://lectai.io)
 - [Revi.js](https://github.com/TeamAlphabotz/Revijs)
 
----
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6C63FF,00FFEA,FF00C8&height=3&width=800&section=footer" />
-  <p style="color: #666; font-size: 0.9em;">Forged in neon • Launched into the future • 2026</p>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=00FFEA,6C63FF,FF00C8&height=3&width=800&section=footer" />
+  <p style="color: #888; font-size: 0.95em;">Forged in the neon veins of possibility • 2026</p>
 </div>
