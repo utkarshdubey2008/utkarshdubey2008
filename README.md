@@ -1,7 +1,7 @@
 <div align="center">
   
 # 👋 Hey, I'm <span style="color:#6C63FF;">Utkarsh</span>
-### Python Developer • AI Tool Creator • Learning Modern Frontend
+### Learning What My Heart Yearns For
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=900&color=6C63FF&center=true&vCenter=true&width=500&lines=Python+Developer;AI+Tool+Creator;API+%2F+Backend+Developer;Learning+React+%2B+TypeScript;Creator+of+LectAI.io" />
 
