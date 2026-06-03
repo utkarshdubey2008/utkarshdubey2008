@@ -3,17 +3,16 @@
 # 👋 Hey, I'm <span style="color:#00FFEA;">Utkarsh</span>
 ### 18 • India 🇮🇳 • Always Busy Building Something Useful
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&pause=800&color=00FFEA&center=true&vCenter=true&width=620&lines=Creating+Digital+Realms;Making+Invisible+Apps+Visible;Turning+Ideas+into+Living+Systems;Where+Code+Meets+Magic" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&pause=800&color=00FFEA&center=true&vCenter=true&width=620&lines=Code+is+love,Code+is+passion,Code+is+life,And+i+am+code+maniac" />
 
 </div>
 
----
-
 ## 🌌 About Me
 
-I'm an 18-year-old Developer from India who lives for building things that feel alive.  
+I'm an 18-year-old Developer from India 🇮🇳 who is deeply in love with tech and stuff,
+Ever since my first exposure to programming and codes when i was 10 years old, with every single day passing my curiosity is growing more and more yearning to learn more.
 
-What I enjoy is Turning complex problems into clean, powerful solutions. I love making tools that actually help people,
+I enjoy Turning complex problems into clean, powerful solutions. I love making tools that actually help people,
 whether it's saving hours on presentations or making React apps visible to the world.  
 
 When I'm not coding, you'll find me exploring new tech, Reading Novels, or listening to music and last but not least writing and studying stuff.
@@ -67,8 +66,6 @@ The free, open-source alternative to Prerender.io.
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
----
-
 ## 📈 Live Transmission
 
 <p align="center">
@@ -77,14 +74,14 @@ The free, open-source alternative to Prerender.io.
 </p>
 
 ## 🌱 Currently Exploring
-- Deep React + TypeScript mastery  
+- React and TypeScript
 - Full-stack system design  
 - Advanced visibility & SEO tools  
 - Beautiful, production-grade interfaces  
 
 ## 📬 Connect With Me
 
-**📨 Email:** `admin@lectai.io`
+**📨 Email:** `Utkarshdubey732@gmail.com`
 
 **🌌 Check out my work:**
 - [LectAI.io](https://lectai.io)
